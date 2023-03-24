@@ -26,10 +26,10 @@ module.exports = () => {
       new MiniCssExtractPlugin(),
       new InjectManifest({
         swSrc: './src-sw.js',
-        swDest: 'service-worker.js',
+        swDest: 'src-sw.js',
       }), 
       new WebpackPwaManifest({
-        name: 'Justins Text Editor',
+        name: 'Justin\'s Text Editor',
         short_name: 'JATE',
         description: 'Just Another Text Editor!',
         background_color: '#ffffff',
