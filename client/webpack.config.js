@@ -34,6 +34,10 @@ module.exports = () => {
         description: 'Just Another Text Editor!',
         background_color: '#ffffff',
         // crossorigin: 'use-credentials', //can be null, use-credentials or anonymous
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
+        start_url: './',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
