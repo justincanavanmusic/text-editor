@@ -7,7 +7,7 @@ I wanted to create a Progressive Web Application that allowed a user to write te
 ## Usage
 
 View Heroku link below:
-
+https://afternoon-sierra-57030.herokuapp.com/
 
 ![app screenshot](./Assets/Screenshot%202023-03-26%20at%2011.31.44%20AM.png)
 
