@@ -14,7 +14,6 @@ View Heroku link below:
 ![app screenshot](./Assets/Screenshot%202023-03-26%20at%2011.29.48%20AM.png)
 
 ## Questions
-
 Feel free to contact me with any questions!
 
 ## Email
